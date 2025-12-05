@@ -1,3 +1,6 @@
+Update as of December 4 2025:
+This is an older version of the Unit Editor I made for Dynasty Warriors 5 Empires, for the more recent version that not only uses better code but also supports all region versions of base Dynasty Warriors 5, Dynasty Warriors 5 XL, and Dynasty Warriors 5 Empires use the new repository https://github.com/PythWare/Dynasty-Warriors-5-Tools
+
 This is a Unit Editor for Dynasty Warriors 5 Empires. Credit goes to God(Christian), Michael for documentation on Dynasty Warriors 5 Empires, and myself for the programming. 
 It mods the unit data and it works for all region versions of the game. To use the script or executable place it in the same directory as your Dynasty Warriors 5 Empires game and rename the game's file to "DW5E.iso" and place the icon
 files into the DW5E_Ico_Files folder.
